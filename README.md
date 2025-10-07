@@ -1,4 +1,6 @@
-## Hi there 👋
+# :avocado: About Me
+
+My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rider.
 
 <!--
 **frolovlife/frolovlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
