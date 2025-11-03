@@ -1,4 +1,4 @@
-# 🥑 About Me
+# 👋 About Me
 
 My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rider.
 
