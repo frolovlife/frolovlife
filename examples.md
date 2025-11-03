@@ -14,6 +14,10 @@ Midnight theme\
 
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/frolovlife/midnight-obs-theme"> <img alt="GitHub Forks" src="https://img.shields.io/github/forks/frolovlife/midnight-obs-theme"> <img alt="GitHub Tags" src="https://img.shields.io/github/v/tag/frolovlife/midnight-obs-theme"> <img alt="GitHub Release" src="https://img.shields.io/github/v/release/frolovlife/midnight-obs-theme">
 
+![version](https://img.shields.io/badge/OBS_Studio-30.2+-orange)
+<img alt="Static Badge" src="https://img.shields.io/badge/OBS_Studio-30.2+-orange">
+
+
 # Шпаргалка по синтаксису GFM (с примерами)
 
 ### Tables
