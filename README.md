@@ -2,7 +2,7 @@
 
 My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rider.
 
-## 💡 My Projects
+## 💡 My Stuff
 
 <a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/gamepadviewer-skins/repository-open-graph-gamepadviewer-skins.png"></a><a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/midnight-obs-theme/repository-open-graph-midnight-obs-theme.png"></a>
 
