@@ -5,7 +5,7 @@ My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rid
 ## 💡 My Stuff
 
 <a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/midnight-obs-theme/social-preview_midnight-obs-theme.png"></a><a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/gamepadviewer-skins/social-preview_gamepadviewer-skins.png"></a>
-<img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-outlined.png"><!-- <img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-filled.png"> -->
+<!-- <img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-outlined.png"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-filled.png"> -->
 <!--
 ## 🔗 Links
 
