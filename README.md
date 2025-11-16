@@ -6,6 +6,22 @@ My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rid
 
 <a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/midnight-obs-theme/social-preview_midnight-obs-theme.png"></a><a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/gamepadviewer-skins/social-preview_gamepadviewer-skins.png"></a>
 <!-- <img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-outlined.png"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-filled.png"> -->
+
+<!--
+Very easy-to-read icons for controlling OBS Studio. This icon pack includes all the icons of the standard plugin for OBS Studio, as well as additional icons for various occasions. The icons are available in two colors (blue and red), which allows them to be used with the [Multi OBS Controller plugin](https://github.com/theca11/multi-obs-controller). Due to the large size and thick lines, the icons are very easy-to-read. All these icons are handcrafted and are combined with the [Midnight theme](https://github.com/frolovlife/midnight-obs-theme) for OBS Studio.
+
+## 💡 Features
+
+- 90 regular icons for the standard plugin for OBS Studio.
+- 27 additional icons.
+- 2 colors (blue and red).
+- Very easy to read.
+- Unique handcrafted designed icons.
+
+> [!NOTE]
+> The icons can be installed not as an icon pack, but by replacing the complete plugin icons. In this case, additional icons will not be installed. For details, see the [Replacing Plugin's Icons](#-replacing-plugins-icons) section.
+-->
+
 <!--
 ## 🔗 Links
 
