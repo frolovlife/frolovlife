@@ -21,22 +21,15 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 > [!NOTE]
 > The icons can be installed not as an icon pack, but by replacing the complete plugin icons. In this case, additional icons will not be installed. For details, see the [Replacing Plugin's Icons](#-replacing-plugins-icons) section.
 -->
-## 🔗 Social Links
+## 🔗 Social
 
-<!--
-<a href="https://www.youtube.com/@alexeyfrolovplay"><img src="https://img.shields.io/badge/Youtube-white?logo=youtube&logoColor=white&labelColor=FF0033&color=gray" alt="Youtube" /></a>
-<a href="https://www.twitch.tv/alexeyfrolovplay"><img src="https://img.shields.io/badge/Twitch-white?logo=twitch&logoColor=white&labelColor=8956FB&color=gray" alt="Twitch" /></a>
-<a href="https://www.vk.com/frolovplay"><img src="https://img.shields.io/badge/VK-white?logo=vk&logoColor=white&labelColor=0077FF&color=gray" alt="VK" /></a>
-<a href="https://live.vkvideo.ru/frolovplay"><img src="https://img.shields.io/badge/VK Video Live-white?logo=vkvideo&logoColor=white&labelColor=0077FF&color=gray" alt="VK Video Live" /></a>
-<a href="https://www.tiktok.com/@alexeyfrolovlive"><img src="https://img.shields.io/badge/TikTok-white?logo=tiktok&logoColor=white&labelColor=000000&color=gray" alt="TikTok" /></a>
-
-
-[![Youtube](https://static.goodgame.ru/images/svg/social/Youtube-34-px.svg)](https://www.youtube.com/@alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitch](https://assets.twitch.tv/assets/favicon-32-e29e246c157142c94346.png)](https://www.twitch.tv/alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![VK](https://static.goodgame.ru/images/svg/social/VKFooter34new.svg)](https://www.vk.com/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://live.vkvideo.ru/frolovplay"><img src="https://static.live.vkvideo.ru/static/apple-touch-icon-180x180.png" height="32" alt="VK Video Live" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://goodgame.ru/alexeyfrolov"><img src="https://static.goodgame.ru/images/favicon/android-icon-192x192.png" height="32" alt="GoodGame" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Discord](https://cdn.prod.website-files.com/6257adef93867e50d84d30e2/62fddf0fde45a8baedcc7ee5_847541504914fd33810e70a0ea73177e%20(2)-1.png)](https://discord.gg/eEh8weqSV2) -->
+[![Youtube](social-icons/Youtube-34-px.svg)](https://www.youtube.com/@alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitch](social-icons/Twitch-34-px.svg)](https://www.twitch.tv/alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![VK](social-icons/VK-34-px.svg)](https://www.vk.com/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![VK](social-icons/VK-Video-Live-34-px.svg)](https://live.vkvideo.ru/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![VK](social-icons/GoodGame-34-px.svg)](https://goodgame.ru/alexeyfrolov)&nbsp;&nbsp;&nbsp;&nbsp; <!--
+[![Discord](social-icons/Discord-34-px.svg)](https://discord.gg/eEh8weqSV2)&nbsp;&nbsp;&nbsp;&nbsp; -->
+[![VK](social-icons/TikTok-34-px.svg)](https://www.tiktok.com/@alexeyfrolovlive)&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🗿 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=frolovlife&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
