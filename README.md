@@ -25,14 +25,14 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 
 Streams, funny videos, community and my real life (in Russian).
 
-<a href="https://www.youtube.com/@alexeyfrolovplay"><img alt="Youtube" src="social-icons/Youtube-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.twitch.tv/alexeyfrolovplay"><img alt="Twitch" src="social-icons/Twitch-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.vk.com/frolovplay"><img alt="VK" src="social-icons/VK-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://live.vkvideo.ru/frolovplay"><img alt="VK Video Live" src="social-icons/VK-Video-Live-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://goodgame.ru/alexeyfrolov"><img alt="GoodGame" src="social-icons/GoodGame-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://discord.gg/eEh8weqSV2"><img alt="Discord" src="social-icons/Discord-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.tiktok.com/@alexeyfrolovlive"><img alt="TikTok" src="social-icons/TikTok-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/frlv_chronicles"><img alt="Telegram" src="social-icons/Telegram-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.youtube.com/@alexeyfrolovplay"><img alt="Youtube" src="social-icons/Youtube-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.twitch.tv/alexeyfrolovplay"><img alt="Twitch" src="social-icons/Twitch-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.vk.com/frolovplay"><img alt="VK" src="social-icons/VK-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://live.vkvideo.ru/frolovplay"><img alt="VK Video Live" src="social-icons/VK-Video-Live-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://goodgame.ru/alexeyfrolov"><img alt="GoodGame" src="social-icons/GoodGame-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://discord.gg/eEh8weqSV2"><img alt="Discord" src="social-icons/Discord-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://www.tiktok.com/@alexeyfrolovlive"><img alt="TikTok" src="social-icons/TikTok-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a target="_blank" href="https://t.me/frlv_chronicles"><img alt="Telegram" src="social-icons/Telegram-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🗿 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=frolovlife&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
