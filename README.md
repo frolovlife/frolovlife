@@ -23,7 +23,7 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 -->
 ## 🔗 Social
 
-Streams, funny videos, community and real life (in Russian).
+Streams, funny videos, community and my real life (in Russian).
 
 [![Youtube](social-icons/Youtube-34-px.svg)](https://www.youtube.com/@alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Twitch](social-icons/Twitch-34-px.svg)](https://www.twitch.tv/alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
