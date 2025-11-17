@@ -25,14 +25,14 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 
 Streams, funny videos, community and my real life (in Russian).
 
-[![Youtube](social-icons/Youtube-34-px.svg)](https://www.youtube.com/@alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitch](social-icons/Twitch-34-px.svg)](https://www.twitch.tv/alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![VK](social-icons/VK-34-px.svg)](https://www.vk.com/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![VK Video Live](social-icons/VK-Video-Live-34-px.svg)](https://live.vkvideo.ru/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![GoodGame](social-icons/GoodGame-34-px.svg)](https://goodgame.ru/alexeyfrolov)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Discord](social-icons/Discord-34-px.svg)](https://discord.gg/eEh8weqSV2)&nbsp;&nbsp;&nbsp;&nbsp;
-[![TikTok](social-icons/TikTok-34-px.svg)](https://www.tiktok.com/@alexeyfrolovlive)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Telegram](social-icons/Telegram-34-px.svg)](https://t.me/frlv_chronicles)&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.youtube.com/@alexeyfrolovplay"><img target="_blank" alt="Youtube" src="social-icons/Youtube-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.twitch.tv/alexeyfrolovplay"><img target="_blank" alt="Twitch" src="social-icons/Twitch-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.vk.com/frolovplay"><img target="_blank" alt="VK" src="social-icons/VK-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://live.vkvideo.ru/frolovplay"><img target="_blank" alt="VK Video Live" src="social-icons/VK-Video-Live-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://goodgame.ru/alexeyfrolov"><img target="_blank" alt="GoodGame" src="social-icons/GoodGame-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://discord.gg/eEh8weqSV2"><img target="_blank" alt="Discord" src="social-icons/Discord-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.tiktok.com/@alexeyfrolovlive"><img target="_blank" alt="TikTok" src="social-icons/TikTok-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://t.me/frlv_chronicles"><img target="_blank" alt="Telegram" src="social-icons/Telegram-34-px.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 🗿 GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=frolovlife&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
