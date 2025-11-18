@@ -30,7 +30,7 @@ Streams, funny videos, community and my real life (in Russian):
 [![VK](social-icons/VK-34-px.svg)](https://www.vk.com/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
 [![VK Video Live](social-icons/VK-Video-Live-34-px.svg)](https://live.vkvideo.ru/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
 [![GoodGame](social-icons/GoodGame-34-px.svg)](https://goodgame.ru/alexeyfrolov)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Discord](social-icons/Discord-34-px.svg)](https://discord.gg/eEh8weqSV2)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Discord](social-icons/Discord-2021-round-34-px.svg)](https://discord.gg/eEh8weqSV2)&nbsp;&nbsp;&nbsp;&nbsp;
 [![TikTok](social-icons/TikTok-34-px.svg)](https://www.tiktok.com/@alexeyfrolovlive)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](social-icons/Telegram-34-px.svg)](https://t.me/frlv_chronicles)&nbsp;&nbsp;&nbsp;&nbsp;
 
