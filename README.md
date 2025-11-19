@@ -1,8 +1,8 @@
-## About Me
+# About Me
 
 My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rider.
 
-## My Stuff
+# My Stuff
 
 <a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/midnight-obs-theme/social-preview_midnight-obs-theme.png"></a><a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/gamepadviewer-skins/social-preview_gamepadviewer-skins.png"></a>
 <!-- <img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-outlined.png"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-filled.png"> -->
@@ -21,7 +21,7 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 > [!NOTE]
 > The icons can be installed not as an icon pack, but by replacing the complete plugin icons. In this case, additional icons will not be installed. For details, see the [Replacing Plugin's Icons](#-replacing-plugins-icons) section.
 -->
-## Social (in Russian)
+# Social (in Russian)
 
 Streams, funny videos, community and me IRL:
 
@@ -34,7 +34,7 @@ Streams, funny videos, community and me IRL:
 [![TikTok](assets/social-icons/TikTok-square-36px.svg)](https://www.tiktok.com/@alexeyfrolovlive)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](assets/social-icons/Telegram-2019-36px.svg)](https://t.me/frlv_chronicles)&nbsp;&nbsp;&nbsp;&nbsp;
 
-## GitHub Stats
+# GitHub Stats
 <!-- ![](https://github-readme-stats.vercel.app/api?username=frolovlife&theme=gruvbox&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com?user=frolovlife&theme=transparent&hide_border=true)<br/>
 ![](https://github-contributor-stats.vercel.app/api?username=frolovlife&limit=3&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)<br/>
