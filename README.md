@@ -30,6 +30,7 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 [![VK](assets/social-icons/VK-36px.svg)](https://www.vk.com/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
 [![VK Video Live](assets/social-icons/VK-Video-Live-36px.svg)](https://live.vkvideo.ru/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
 [![GoodGame](assets/social-icons/GoodGame-square-36px.svg)](https://goodgame.ru/alexeyfrolov)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Платформа](assets/social-icons/PLvideo-36px.svg)](https://plvideo.ru/@frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Discord](assets/social-icons/Discord-2021-round-36px.svg)](https://discord.gg/eEh8weqSV2)&nbsp;&nbsp;&nbsp;&nbsp;
 
 - Me IRL
