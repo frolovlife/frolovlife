@@ -25,13 +25,13 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 
 - Streams, funny videos and community:
 
-  [![Youtube](assets/social-icons/Youtube-square-36px.svg)](https://www.youtube.com/@alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![Twitch](assets/social-icons/Twitch-square-36px.svg)](https://www.twitch.tv/alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![VK](assets/social-icons/VK-36px.svg)](https://www.vk.com/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![VK Video Live](assets/social-icons/VK-Video-Live-36px.svg)](https://live.vkvideo.ru/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
-[![GoodGame](assets/social-icons/GoodGame-square-36px.svg)](https://goodgame.ru/alexeyfrolov)&nbsp;&nbsp;&nbsp;&nbsp;<!--
-[![Платформа](assets/social-icons/PLvideo-36px.svg)](https://plvideo.ru/@frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;-->
-[![Discord](assets/social-icons/Discord-2021-round-36px.svg)](https://discord.gg/eEh8weqSV2)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Youtube](assets/social-icons/Youtube-square-36px.svg)](https://youtube.com/@alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Twitch](assets/social-icons/Twitch-square-36px.svg)](https://twitch.tv/alexeyfrolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![VK](assets/social-icons/VK-36px.svg)](https://vk.com/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![VK Video Live](assets/social-icons/VK-Video-Live-36px.svg)](https://live.vkvideo.ru/frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;<!--
+[![GoodGame](assets/social-icons/GoodGame-square-36px.svg)](https://goodgame.ru/alexeyfrolov)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Платформа](assets/social-icons/PLvideo-36px.svg)](https://plvideo.ru/@frolovplay)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Discord](assets/social-icons/Discord-2021-round-36px.svg)](https://discord.gg/eEh8weqSV2)&nbsp;&nbsp;&nbsp;&nbsp;-->
 <!--
 - Photography
 
@@ -42,7 +42,7 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 -->
 - Me IRL
 
-  [![TikTok](assets/social-icons/TikTok-square-36px.svg)](https://www.tiktok.com/@alexeyfrolovlive)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![TikTok](assets/social-icons/TikTok-square-36px.svg)](https://tiktok.com/@alexeyfrolovlive)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](assets/social-icons/Telegram-2019-36px.svg)](https://t.me/frlv_chronicles)&nbsp;&nbsp;&nbsp;&nbsp;
 
 # GitHub Stats
