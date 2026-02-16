@@ -2,9 +2,6 @@
 
 My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rider.
 
-Ultraviolet: `#AC58E9`.
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
-
 # My Stuff
 
 <a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/midnight-obs-theme/social-preview_midnight-obs-theme.png"></a><a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/gamepadviewer-skins/social-preview_gamepadviewer-skins.png"></a>
@@ -51,11 +48,12 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 # GitHub Stats
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=frolovlife&theme=transparent&hide_border=true&include_all_commits=true&count_private=true) -->
-![](https://github-readme-streak-stats.herokuapp.com?user=frolovlife&theme=transparent&hide_border=true)<!--
-![](https://github-contributor-stats.vercel.app/api?username=frolovlife&limit=3&theme=transparent&hide_border=true&combine_all_yearly_contributions=true) -->
+![](https://github-readme-streak-stats.herokuapp.com?user=frolovlife&theme=transparent&hide_border=true)
+![](https://github-contributor-stats.vercel.app/api?username=frolovlife&limit=3&theme=transparent&hide_border=true&combine_all_yearly_contributions=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frolovlife&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ![](https://github-profile-trophy.vercel.app/?username=frolovlife&theme=discord&no-frame=true&no-bg=true&margin-w=20&margin-h=20&column=3)
+
+<!-- Ultraviolet: #AC58E9 / rgb (172, 88, 233) -->
 
 <!--
 **frolovlife/frolovlife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
