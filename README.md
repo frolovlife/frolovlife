@@ -2,6 +2,9 @@
 
 My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rider.
 
+Ultraviolet: `#AC58E9`.
+The background color is `#ffffff` for light mode and `#000000` for dark mode.
+
 # My Stuff
 
 <a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/midnight-obs-theme/social-preview_midnight-obs-theme.png"></a><a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/gamepadviewer-skins/social-preview_gamepadviewer-skins.png"></a>
