@@ -42,7 +42,7 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 -->
 - Me IRL
 
-  [![TikTok](assets/social-icons/TikTok-square-36px.svg)](https://tiktok.com/@alexeyfrolovlive)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![TikTok](assets/social-icons/TikTok-square-36px.svg)](https://tiktok.com/@toxiclongboardist)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](assets/social-icons/Telegram-2019-36px.svg)](https://t.me/frlv_chronicles)&nbsp;&nbsp;&nbsp;&nbsp;
 
 # GitHub Stats
