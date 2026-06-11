@@ -4,7 +4,8 @@ My name is Alexey, I'm photographer, designer, gamer, streamer and longboard rid
 
 # My Stuff
 
-<a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/midnight-obs-theme/social-preview_midnight-obs-theme.png"></a><a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/gamepadviewer-skins/social-preview_gamepadviewer-skins.png"></a>
+<a target="_blank" href="https://github.com/frolovlife/midnight-obs-theme"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/midnight-obs-theme/social-preview_midnight-obs-theme.png"></a><a target="_blank" href="https://github.com/frolovlife/gamepadviewer-skins"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/projects/gamepadviewer-skins/social-preview_gamepadviewer-skins.png"></a><img align="left" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/frolovlife/midnight-obs-theme?style=for-the-badge&color=e0b54a"><img align="right" alt="GitHub Repo stars" src="https://img.shields.io/github/stars/frolovlife/gamepadviewer-skins?style=for-the-badge&color=e0b54a">
+
 <!-- <img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-outlined.png"><img width="50%" src="https://github.com/frolovlife/frolovlife/blob/main/assets/social-preview_streamdeck-obs-filled.png"> -->
 
 <!--
@@ -21,6 +22,8 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 > [!NOTE]
 > The icons can be installed not as an icon pack, but by replacing the complete plugin icons. In this case, additional icons will not be installed. For details, see the [Replacing Plugin's Icons](#-replacing-plugins-icons) section.
 -->
+<br>
+
 # Social (in Russian)
 
 - Streams, funny videos and community:
@@ -42,7 +45,7 @@ Very easy-to-read icons for controlling OBS Studio. This icon pack includes all 
 -->
 - Me IRL
 
-  [![TikTok](assets/social-icons/TikTok-square-36px.svg)](https://tiktok.com/@toxiclongboardist)&nbsp;&nbsp;&nbsp;&nbsp;
+  [![TikTok](assets/social-icons/TikTok-square-36px.svg)](https://tiktok.com/@toxiclongboarder)&nbsp;&nbsp;&nbsp;&nbsp;
 [![Telegram](assets/social-icons/Telegram-2019-36px.svg)](https://t.me/frlv_chronicles)&nbsp;&nbsp;&nbsp;&nbsp;
 
 # GitHub Stats
